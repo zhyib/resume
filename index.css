@@ -7,10 +7,14 @@ body {
 }
 
 @media screen {
-  html,
   body {
     width: 700px;
   }
+}
+
+ul {
+  margin: 0;
+  padding-inline-start: 20px;
 }
 
 .title {
@@ -39,6 +43,6 @@ body {
 }
 
 .block-flex div:last-child {
-  min-width: 80px;
+  min-width: 120px;
   text-align: right;
 }
