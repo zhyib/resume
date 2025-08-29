@@ -2,7 +2,7 @@ html,
 body {
   font-size: 16px;
   font-family: "Times New Roman", Times, serif;
-  line-height: 1.24;
+  line-height: 1.25;
   text-align: justify;
 }
 
@@ -29,12 +29,12 @@ ul {
 .block-title {
   font-weight: bold;
   border-bottom: 1px solid black;
-  margin-top: 16px;
+  margin-top: 20px;
 }
 
 .block-subtitle {
   font-weight: bold;
-  margin-top: 8px;
+  margin-top: 12px;
 }
 
 .block-flex {
